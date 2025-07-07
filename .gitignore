@@ -12,3 +12,5 @@ HELP.md
 
 */temp-uploads/*
 */uploads/*
+
+.env

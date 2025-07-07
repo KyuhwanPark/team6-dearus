@@ -27,6 +27,7 @@ DearUs는 사용자가 자신의 감정과 일상을 기록하고 공유할 수 
 
 ![Java](https://img.shields.io/badge/java-%231E8CBE.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 
 ### Frontend
 
@@ -38,6 +39,11 @@ DearUs는 사용자가 자신의 감정과 일상을 기록하고 공유할 수 
 ### Database
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### DevOps & Deployment
+
+![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ### Version Control & Collaboration
 
